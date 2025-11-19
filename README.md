@@ -30,7 +30,7 @@ Although the source code for this project is currently private, the application 
 
 #### Windows:
 
-Go to the releases page and find the latest stable release.
+Go to the [releases page](https://github.com/17bryen/profolio-releases/releases) and find the latest stable release.
 
 Download the latest Profolio-Setup-x.x.x.exe.
 
@@ -39,7 +39,7 @@ Run the installer.
 
 #### Linux:
 
-Go to the releases page and find the latest stable release.
+Go to the [releases page](https://github.com/17bryen/profolio-releases/releases) and find the latest stable release.
 
 Download the latest Profolio-Linux-x.x.x.AppImage.
 
@@ -52,4 +52,4 @@ Double-click the file to run the AppImage.
 ## Feedback & Issues
 
 This application is currently in early development. You almost certainly will encounter bugs or incomplete features.
-There is currently no standard feedback template or pipeline, but if you find an issue in one of the builds, please open an issue in this repository.
+There is currently no standard feedback template or pipeline, but if you find an issue in one of the builds, please [open an issue](https://github.com/17bryen/profolio-releases/issues) in this repository.
